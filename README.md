@@ -1,1 +1,1 @@
-# MathematicalModeling
+# MathematicsModeling
